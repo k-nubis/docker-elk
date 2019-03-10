@@ -1,0 +1,2 @@
+# Ignore elasticsearch generated data
+/elasticsearch/data/*
